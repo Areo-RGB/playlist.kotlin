@@ -1,0 +1,6 @@
+{
+  "name": "Playlist Player",
+  "description": "YouTube playlist player app integrated with Google Sheets chapters",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
